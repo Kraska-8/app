@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Kraska-8.github.io/app",
+  "homepage": "https://Kraska-8.github.io/app/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
